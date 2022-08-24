@@ -870,6 +870,14 @@ support for no js
   letter-spacing:3px;
   color:#4b4e53;
 }
+.norm-18-wide{
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
+	font-size: 20px;
+	line-height: 18px;
+	font-weight: 400;
+  letter-spacing:3px;
+  color:#4b4e53;
+}
 .norm-16{
 	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 16px;
